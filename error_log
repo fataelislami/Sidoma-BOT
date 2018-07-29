@@ -1,0 +1,135 @@
+[25-Mar-2018 00:52:01 UTC] Method not allowed
+[25-Mar-2018 02:51:34 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 103
+[25-Mar-2018 02:51:37 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 103
+[25-Mar-2018 02:51:47 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 103
+[25-Mar-2018 02:52:09 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 103
+[25-Mar-2018 02:53:04 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 110
+[25-Mar-2018 02:53:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 110
+[25-Mar-2018 02:53:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 110
+[25-Mar-2018 02:59:27 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 107
+[25-Mar-2018 02:59:28 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 107
+[25-Mar-2018 13:10:11 UTC] Method not allowed
+[25-Mar-2018 13:10:57 UTC] Method not allowed
+[25-Mar-2018 13:11:29 UTC] Method not allowed
+[25-Mar-2018 13:11:48 UTC] Method not allowed
+[25-Mar-2018 13:12:49 UTC] Method not allowed
+[25-Mar-2018 13:23:46 UTC] PHP Fatal error:  Call to undefined method Quran::getQuran() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 98
+[25-Mar-2018 13:23:55 UTC] PHP Fatal error:  Call to undefined method Quran::getQuran() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 98
+[25-Mar-2018 22:48:42 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 161
+[25-Mar-2018 22:48:48 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 161
+[25-Mar-2018 22:48:58 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 161
+[25-Mar-2018 22:49:16 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 161
+[25-Mar-2018 22:55:16 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 160
+[29-Mar-2018 22:42:53 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 5
+[29-Mar-2018 22:42:56 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 5
+[29-Mar-2018 22:43:02 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 5
+[29-Mar-2018 22:43:49 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 5
+[29-Mar-2018 22:43:52 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 5
+[29-Mar-2018 22:44:26 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 5
+[29-Mar-2018 22:44:29 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 5
+[29-Mar-2018 22:45:02 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 5
+[29-Mar-2018 22:45:03 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 5
+[29-Mar-2018 22:45:04 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 5
+[29-Mar-2018 22:50:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:50:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:50:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:50:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:50:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:50:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:50:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:50:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:50:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:51:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:51:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:51:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 22:51:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/MessageBuilder.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 2
+[29-Mar-2018 23:11:45 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 21
+[29-Mar-2018 23:11:48 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 21
+[29-Mar-2018 23:11:50 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 21
+[29-Mar-2018 23:12:19 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 22
+[29-Mar-2018 23:12:23 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 22
+[29-Mar-2018 23:16:00 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 34
+[29-Mar-2018 23:16:03 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 34
+[29-Mar-2018 23:16:16 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 34
+[29-Mar-2018 23:17:47 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 34
+[29-Mar-2018 23:17:49 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 34
+[29-Mar-2018 23:18:49 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 34
+[29-Mar-2018 23:19:41 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:20:59 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:21:13 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:24:13 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:24:16 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:25:29 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:26:16 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:27:09 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:28:20 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:32:16 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:32:24 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:33:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 61
+[29-Mar-2018 23:33:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 61
+[29-Mar-2018 23:33:24 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:33:27 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:33:39 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:33:44 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:34:21 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:34:24 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:35:10 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:35:12 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:35:30 UTC] PHP Fatal error:  Call to undefined function getKajian() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 27
+[29-Mar-2018 23:36:46 UTC] PHP Fatal error:  Call to undefined function text() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 31
+[29-Mar-2018 23:36:48 UTC] PHP Fatal error:  Call to undefined function text() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 31
+[29-Mar-2018 23:37:02 UTC] PHP Fatal error:  Call to undefined function text() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 31
+[29-Mar-2018 23:37:10 UTC] PHP Fatal error:  Call to undefined function text() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 31
+[29-Mar-2018 23:37:12 UTC] PHP Fatal error:  Call to undefined function text() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 31
+[29-Mar-2018 23:37:22 UTC] PHP Fatal error:  Call to undefined function text() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 31
+[29-Mar-2018 23:59:49 UTC] PHP Fatal error:  Call to undefined method ClientAPI::text() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 19
+[29-Mar-2018 23:59:52 UTC] PHP Fatal error:  Call to undefined method ClientAPI::text() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 19
+[30-Mar-2018 00:25:35 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 20
+[30-Mar-2018 00:25:41 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 20
+[30-Mar-2018 00:27:04 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 20
+[30-Mar-2018 00:27:05 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 20
+[30-Mar-2018 00:27:07 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 20
+[30-Mar-2018 00:28:54 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 41
+[30-Mar-2018 00:28:58 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 41
+[30-Mar-2018 00:30:40 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 41
+[30-Mar-2018 00:30:42 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 41
+[30-Mar-2018 00:31:06 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 41
+[30-Mar-2018 00:31:09 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 41
+[30-Mar-2018 00:31:32 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 41
+[30-Mar-2018 00:31:51 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 41
+[30-Mar-2018 00:32:55 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 41
+[30-Mar-2018 00:33:14 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Quran.php on line 41
+[30-Mar-2018 11:58:39 UTC] PHP Fatal error:  Call to a member function itemCarousel() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 35
+[30-Mar-2018 23:01:22 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 19
+[30-Mar-2018 23:01:25 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 19
+[30-Mar-2018 23:01:30 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Register.php on line 19
+[30-Mar-2018 23:58:30 UTC] PHP Fatal error:  Call to a member function get() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/CariMasjid.php on line 8
+[30-Mar-2018 23:58:41 UTC] PHP Fatal error:  Call to a member function get() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/CariMasjid.php on line 8
+[31-Mar-2018 00:31:22 UTC] PHP Fatal error:  Function name must be a string in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 161
+[31-Mar-2018 01:02:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/MessageBuilder.php on line 121
+[31-Mar-2018 01:02:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/MessageBuilder.php on line 121
+[31-Mar-2018 01:03:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/MessageBuilder.php on line 121
+[31-Mar-2018 01:04:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/MessageBuilder.php on line 121
+[31-Mar-2018 01:04:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/MessageBuilder.php on line 121
+[31-Mar-2018 01:04:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/MessageBuilder.php on line 121
+[31-Mar-2018 01:04:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/MessageBuilder.php on line 121
+[31-Mar-2018 01:04:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/MessageBuilder.php on line 121
+[31-Mar-2018 01:04:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/MessageBuilder.php on line 121
+[31-Mar-2018 01:04:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/MessageBuilder.php on line 121
+[31-Mar-2018 01:29:45 UTC] Method not allowed
+[31-Mar-2018 09:18:03 UTC] PHP Fatal error:  Call to a member function text() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/CariKiblat.php on line 13
+[02-Apr-2018 00:48:39 UTC] PHP Fatal error:  Call to a member function resize() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/imagemap/controllers/Mapfy.php on line 18
+[11-Apr-2018 09:34:33 UTC] PHP Fatal error:  Class 'MY_Controllers' not found in /home/u6545471/public_html/kostlab.id/islamify/application/modules/hadits/controllers/Hadits.php on line 4
+[12-Apr-2018 00:19:48 UTC] PHP Fatal error:  Call to undefined method MessageBuilder::itemImgCarousel() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 514
+[12-Apr-2018 00:19:53 UTC] PHP Fatal error:  Call to undefined method MessageBuilder::itemImgCarousel() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 514
+[12-Apr-2018 00:37:02 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 36
+[12-Apr-2018 00:38:10 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 36
+[12-Apr-2018 00:38:13 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 36
+[12-Apr-2018 00:38:17 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 36
+[12-Apr-2018 00:38:56 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 36
+[12-Apr-2018 00:38:59 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 36
+[12-Apr-2018 00:40:37 UTC] PHP Fatal error:  Call to a member function model() on null in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/class/Kajian.php on line 36
+[12-Apr-2018 00:41:04 UTC] Method not allowed
+[12-Apr-2018 14:41:51 UTC] PHP Fatal error:  Class 'Menu' not found in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 85
+[12-Apr-2018 14:46:11 UTC] PHP Fatal error:  Call to undefined method Menu::text() in /home/u6545471/public_html/kostlab.id/islamify/application/modules/bot/controllers/Bot.php on line 198
+[28-Jul-2018 14:34:21 UTC] Method not allowed
